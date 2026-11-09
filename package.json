@@ -4,7 +4,7 @@
   "description": "Free AI proxy on Render",
   "main": "index.js",
   "scripts": {
-  "start": "rm -rf /opt/render/.omniroute && npx omniroute"
+"start": "rm -rf /opt/render/.omniroute && npx omniroute key create myfreekey && npx omniroute"
   },
   "dependencies": {
     "omniroute": "latest"
