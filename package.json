@@ -4,9 +4,9 @@
   "description": "Free AI proxy on Render",
   "main": "index.js",
   "scripts": {
-"start": "npx omniroute"
+    "start": "npx omniroute"
   },
   "dependencies": {
-    "omniroute": "latest""
+    "omniroute": "latest"
   }
 }
